@@ -1,6 +1,8 @@
 # flutter_emoji_picker
 
-A new Flutter project.
+A simple emoji picker project.
+
+![](https://github.com/dmmaia/flutter_emoji_picker/assets/34870753/1c2978c8-c856-4ffe-b043-99d37739e48c)
 
 ## Getting Started
 
